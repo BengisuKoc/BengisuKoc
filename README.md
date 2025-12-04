@@ -18,6 +18,10 @@ I started my engineering journey with a strong focus on the physical layer, gain
 
 Currently, I am pivoting my career focus towards **Signal Processing** and **Telecommunication Systems**. I love using my hardware background to understand the "reality" behind the algorithms I design.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="160" alt="cute pink robot waving"/>
+</div>
+
 🔭 **Currently working on:**
 - 🧠 Deepening my theoretical knowledge in **DSP (Digital Signal Processing)**.
 - 📶 Simulating communication protocols using **MATLAB**.
