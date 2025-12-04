@@ -54,14 +54,17 @@ Currently, I am pivoting my career focus towards **Signal Processing** and **Tel
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BengisuKoc&show_icons=true&theme=kaito&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BengisuKoc&layout=compact&theme=kaito&hide=html,css&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=BengisuKoc&show_icons=true&theme=kaito&count_private=true" alt="Bengisu's Stats" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BengisuKoc&layout=compact&theme=kaito&hide=html,css" alt="Top Languages" />
+</a>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bengisu-k-9a781637b/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="www.linkedin.com/in/bengisu-k-9a781637b/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
 </div>
