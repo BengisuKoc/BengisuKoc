@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqeGd4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2/26AHONQ79FdWZhAI0/giphy.gif" width="160" alt="cute pink robot waving"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="160" alt="cute pink robot waving"/>
 </div>
 
 <div align="center">
