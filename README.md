@@ -63,7 +63,7 @@ While I love seeing a board come to life, I realized my true passion lies in the
 ---
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/bengisu-k-9a781637b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
