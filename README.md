@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Bengisu+Koç;Electrical-Electronics+Engineering+Student;Bridging+Hardware+and+Signal+Processing&font=Fira+Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Bengisu+Koç;Electrical-Electronics+Engineering+Student;Bridging+Hardware+and+Signal+Processing&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&pause=1000" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqeGd4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="cute pink robot"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqeGd4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2eGZ4anZ2/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="cute pink robot waving"/>
 </p>
 
 <p align="center">
