@@ -23,11 +23,11 @@ Currently, I am pivoting my career focus towards **Signal Processing** and **Tel
 </div>
 
 🔭 **Currently working on:**
-- 🧠 Deepening my theoretical knowledge in **DSP (Digital Signal Processing)**.
+- 🧠 Deepening my theoretical knowledge in **Digital Communication**.
 - 📶 Simulating communication protocols using **MATLAB**.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/31373897/146791797-5895125b-0373-4d09-9947-04280897876b.gif" width="100%">
 </div>
 
 ### 🛠️ My Toolbox
