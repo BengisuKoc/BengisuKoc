@@ -61,7 +61,7 @@ Currently, I am pivoting my career focus towards **Signal Processing** and **Tel
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SENIN_LINKEDIN_ADRESIN">
+  <a href="https://www.linkedin.com/in/bengisu-k-9a781637b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
